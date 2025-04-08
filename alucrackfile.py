@@ -7,7 +7,7 @@ from termcolor import colored
 def banner():
     print(colored("="*50, "green"))
     print(colored("     🔐 ALUCRACKFILE - ZIP BRUTE FORCE TOOL 🔐", "green", attrs=["bold"]))
-    print(colored("        BY KORATTYKARAN ALVANOSH JOJO", "green"))
+    print(colored("        BY  ALVANOSH JOJO", "green"))
     print(colored("="*50, "green"))
 
 def crack_zip(zip_path, wordlist_path):

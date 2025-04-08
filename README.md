@@ -74,6 +74,10 @@ I don’t just code — I craft weapons for the cyber battlefield. From reconnai
 
 ---
 
+##⚠️ Disclaimer:
+ALUVENGEANCE is created for educational purposes and legal penetration testing only. Misuse of this tool can lead to criminal charges. Use responsibly, stay ethical.
+
+---
 ## 🛠️ Installation
 
 ```bash

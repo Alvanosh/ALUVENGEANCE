@@ -60,7 +60,7 @@ def main():
                 f.write(sub + "\n")
         print(Fore.GREEN + f"[+] Saved to {filename}")
 
-    print(Fore.GREEN + "\n✅ YES WE DID IT BY  ALVANOSH JOJO 💪")
+    print(Fore.GREEN + "\n✅ YES WE DID IT MAN!! 💪")
 
 if __name__ == "__main__":
     main()

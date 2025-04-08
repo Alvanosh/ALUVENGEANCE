@@ -7,7 +7,7 @@ def banner():
     os.system('clear' if os.name == 'posix' else 'cls')
     print("\033[92m" + "="*50)
     print("🛡️  ALVASCANNER - Nmap Powered Network Scanner 🛡️")
-    print("         Created by Alvanosh Jojo (Korattykaran)")
+    print("         Created by Alvanosh Jojo ")
     print("="*50 + "\033[0m\n")
 
 def get_target():

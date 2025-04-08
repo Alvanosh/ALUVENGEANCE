@@ -13,6 +13,7 @@ Modular. Fast. Ruthless (but ethical).
 ---
 
 💥 Why ALUVENGEANCE Stands Out?
+
 ✅ Modular Design: 9 standalone tools bundled into one terminal environment
 
 ✅ Fast & Reliable: Optimized code, minimal dependencies, clean error handling

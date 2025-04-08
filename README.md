@@ -8,8 +8,8 @@
 
 ⚡ What is ALUVENGEANCE?
 
-It is an all-in-one ethical hacking toolkit forged for today’s cyber warriors. Whether you're into bug bounties, red teaming, or just hacking for good — this beast packs the firepower, speed, and simplicity you need to strike smart and stay ethical.
-Modular. Fast. Ruthless (but ethical).
+>** It is an all-in-one ethical hacking toolkit forged for today’s cyber warriors. Whether you're into bug bounties, red teaming, or just hacking for good — this beast packs the firepower, speed, and simplicity you need to strike smart and stay ethical.
+Modular. Fast. Ruthless (but ethical)**
 ---
 
 💥 Why ALUVENGEANCE Stands Out?

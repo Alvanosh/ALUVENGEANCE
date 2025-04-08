@@ -1,5 +1,4 @@
 # ⚔️ ALUVENGEANCE – The Ultimate Ethical Hacking Toolkit by [Alvanosh Jojo](https://github.com/Alvanosh) ⚔️
-![image](https://1drv.ms/i/c/f378666c77c96e9e/ESk8oh4JGI1Kss-JxVtc8N0BLkRbYG1XdtAzVgYeNr8-gw?e=ybRXZZ)
 
 > 🧠 **"Unleash cyber power like never before. Centralized. Fast. Ruthless."**
 

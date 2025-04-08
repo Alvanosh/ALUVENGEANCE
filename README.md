@@ -8,10 +8,6 @@
 
 ⚡ What is ALUVENGEANCE?
 ALUVENGEANCE is a meticulously crafted, all-in-one ethical hacking toolkit built for today’s cybersecurity warriors. Whether you’re a budding bug bounty hunter, a red team operator, or a digital vigilante who believes in ethical power — this toolkit is your ultimate companion. Designed with performance, modularity, and user experience at its core, ALUVENGEANCE simplifies complex tasks and puts essential cyber weapons right at your fingertips.
-
-This isn't just another collection of scripts — it’s a centralized cyber arsenal engineered to handle real-world recon, enumeration, password cracking, and intelligence gathering in one clean terminal interface. Each tool inside ALUVENGEANCE targets a specific phase of the penetration testing lifecycle, streamlining your workflow and saving you time during assessments or CTFs.
-
-Built entirely in Python, ALUVENGEANCE ensures cross-platform compatibility and speed. It uses a user-friendly, menu-driven interface powered by the rich library, giving every interaction a polished look. From passive intelligence gathering like WHOIS checks and subdomain busting, to active scanning like port checks and brute-force cracking — everything is just one keypress away.
 ----
 
 💥 Why ALUVENGEANCE Stands Out
@@ -26,13 +22,6 @@ ALUVENGEANCE isn’t just another cybersecurity tool — it’s a full-blown bat
 ✅ Ethical & Educational: Ideal for training, research, and red teaming
 
 ✅ Offline Ready: Most modules can run without internet access
-
-It’s not just a toolset — it’s a philosophy: "Strike first. Strike smart. Stay ethical."
-
-Created by Alvanosh Jojo, a passionate ethical hacker . ALUVENGEANCE is a bold step toward democratizing ethical hacking tools and empowering the next generation of cyber guardians.
-
-
-
 ---
 
 ## 🧰 Included Tools
@@ -73,15 +62,6 @@ I don’t just code — I craft weapons for the cyber battlefield. From reconnai
 - 🧠 Creator of tools like **KORATTYSEC-ALUGUARD**, **ALUCRACKER**, **ALUDEFENDER**  
 - 🌍 [Website](https://alvanosh.info) • [GitHub](https://github.com/Alvanosh)  
 - 💬 Passionate about ethical hacking, security automation, and making the internet a safer space.
-
----
-
-##⚠️ Disclaimer:
-ALUVENGEANCE is created for educational purposes and legal penetration testing only. Misuse of this tool can lead to criminal charges. Use responsibly, stay ethical.
-
----
-“Strike first. Strike smart. Stay ethical.”
-This isn’t just a toolset — it’s a philosophy.
 ---
 ## 🛠️ Installation
 

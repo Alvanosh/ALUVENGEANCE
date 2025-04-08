@@ -61,9 +61,12 @@ Created by Alvanosh Jojo, a passionate ethical hacker from Kerala, India, ALUVEN
 
 ---
 
-## 🧑‍💻 About the Developer
+## 🧑‍💻About Me — 👨‍💻Alvanosh Jojo
 
-👨‍💻 **Alvanosh Jojo**  
+Hey👋,
+      🛡️cyber warriors 
+I’m Alvanosh Jojo, a cyber forensics enthusiast, ethical hacker
+I don’t just code — I craft weapons for the cyber battlefield. From reconnaissance to exploitation, I design open-source, battle-tested tools that empower ethical hackers, students, and defenders across the globe.
 - 🛡️ Junior Ethical Hacker  
 - 🧠 Creator of tools like **KORATTYSEC-ALUGUARD**, **ALUCRACKER**, **ALUDEFENDER**  
 - 🌍 [Website](https://alvanosh.info) • [GitHub](https://github.com/Alvanosh)  

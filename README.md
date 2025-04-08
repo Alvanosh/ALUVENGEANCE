@@ -67,6 +67,7 @@ I don’t just code — I craft weapons for the cyber battlefield. From reconnai
 - 💬 Passionate about ethical hacking, security automation, and making the internet a safer space.
 ---
 ## 🛠️ Installation
+![ALUVENGEANCE tools](tools.jpg)
 
 ```bash
 git clone https://github.com/Alvanosh/ALUVENGEANCE.git

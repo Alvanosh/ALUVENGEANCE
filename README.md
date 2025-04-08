@@ -28,6 +28,8 @@ Modular. Fast. Ruthless (but ethical)**
 ---
 
 ## 🧰 Included Tools
+![ALUVENGEANCE tools1](tool1.jpg)
+
 
 | 🔢 | Tool Name             | 🔍 Description |
 |----|-----------------------|----------------|

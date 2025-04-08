@@ -23,6 +23,8 @@ Modular. Fast. Ruthless (but ethical)**
 ✅ Ethical & Educational: Ideal for training, research, and red teaming
 
 ✅ Offline Ready: Most modules can run without internet access
+
+
 ---
 
 ## 🧰 Included Tools

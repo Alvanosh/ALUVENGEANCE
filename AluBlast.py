@@ -161,7 +161,7 @@ def main():
     except KeyboardInterrupt:
         print(f"{Fore.RED}\n[!] Interrupted by user.")
     finally:
-        print(f"\n{Fore.LIGHTGREEN_EX}[✔] ALUBLAST Completed - YES WE DID IT! — By Alvanosh Jojo 💣")
+        print(f"\n{Fore.LIGHTGREEN_EX}[✔] ALUBLAST Completed - YES WE DID IT MAN !! 💣")
 
 if _name_ == "_main_":
     main()

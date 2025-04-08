@@ -57,7 +57,7 @@ def banner():
   ██╔══██║██║     ██║   ██║    ██║███╗██║██║   ██║██╔═══╝ ██║     
   ██║  ██║███████╗╚██████╔╝    ╚███╔███╔╝╚██████╔╝██║     ███████╗
   ╚═╝  ╚═╝╚══════╝ ╚═════╝      ╚══╝╚══╝  ╚═════╝ ╚═╝     ╚══════╝
-          🔒 alu_wordlist_maker.py by KORATTYKARAN ALVANOSH JOJO 🔒
+          🔒 alu_wordlist_maker.py by  ALVANOSH JOJO 🔒
     """)
 
 def main():

@@ -87,7 +87,7 @@ def main():
     get_dns(domain)
     crawl_and_extract(domain)
     print("\n" + "="*60)
-    print(Fore.GREEN + Style.BRIGHT + "\n✅ yes we did it by  ALVANOSH JOJO\n")
+    print(Fore.GREEN + Style.BRIGHT + "\n✅ yes we did it Man!!\n")
 
 if __name__ == "__main__":
     main()

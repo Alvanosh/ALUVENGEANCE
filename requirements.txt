@@ -1,6 +1,12 @@
-rich
-python-nmap
 requests
 beautifulsoup4
 lxml
 colorama
+whois
+dnspython
+nmap
+python-nmap
+aiohttp
+stem
+uvloop
+rich

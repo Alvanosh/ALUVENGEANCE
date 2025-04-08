@@ -1,0 +1,6 @@
+rich
+python-nmap
+requests
+beautifulsoup4
+lxml
+colorama
